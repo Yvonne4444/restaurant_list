@@ -14,28 +14,28 @@
 - [Express](https://www.npmjs.com/package/express)：4.17.1
 - [Express-Handlebars](https://www.npmjs.com/package/express-handlebars)：5.3.0
 
-## Installation and Execution
+## Installing by terminal
 
 1. clone 此專案至本機電腦
 
    ```
-   $ git clone https://github.com/Ashley-Hung/restaurant-remote.git
+   git clone https://github.com/Yvonne4444/restaurant_list.git
    ```
 
-2. 安裝
+2. 進入專案資料夾後，安裝 packages
 
    ```
-   $ cd restaurant-remote
-   $ npm install
+   cd restaurant_list
+   npm install
    ```
 
-3. 執行
+3. 啟動專案
 
    ```
-   $ npm run dev
+   node app.js
    ```
 
-4. 執行成功後，Terminal 會顯示下列訊息
+4. 啟動成功回傳的訊息
 
    ```
    Express is listening on localhost:3000
